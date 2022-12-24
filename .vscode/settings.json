@@ -1,0 +1,10 @@
+{
+    "editor.codeLensFontSize": 14,
+    "editor.fontSize": 14,
+    "cSpell.words": [
+        "testingbloc"
+    ],
+    "cSpell.enableFiletypes": [
+        "dart"
+    ]
+}
